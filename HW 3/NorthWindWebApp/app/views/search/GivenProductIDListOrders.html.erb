@@ -1,0 +1,17 @@
+<table style="width:500px"/>
+<h1>List Orders and Price</h1>
+please scroll down..
+<tr>
+  <td>Order ID's</td>
+  <td>Total Price after discount</td>
+</tr>
+<% num = 0%>
+<% @jsonValueHash.each do |key|%>
+    <tr>
+      <td><%=key["OrderID"]%></td>
+      <% a=key["UnitPrice"].to_f * key["Quantity"].to_i * (1-key["Discount"].to_f)%>
+      <td><%=sprintf "%.1f", a %></td></br>
+      <% num = num + 1 %>
+    </tr>
+<% end %>
+The number of orders for product ID <%@ID%> is <%= num %>

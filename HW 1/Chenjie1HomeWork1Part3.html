@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+      <title>Google Map Example</title>
+      <style type="text/css">
+          #map1 {
+             height: 600px;
+             width: 800px;
+             float: left;
+          }
+          #map2 {
+             height: 600px;
+             width: 800px;
+             float: left;
+          }
+      </style>
+      
+      <!-- Get Google's Javascript -->
+      <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false">
+      </script>
+
+      <script>
+      function validateForm(){
+      var x=document.forms["myForm"]["inputbox"].value;
+      if (x==null || x=="")
+      {
+        alert("Please input correct address");
+        return false;
+      }
+
+    }
+      </script>
+ 
+      <!-- getMap creates a call back handler that executes when the geo coding is complete.
+      -->
+      
+      <script type="text/javascript">
+ 
+      function getMap(s) {
+          
+         var userLocation = s.inputbox.value; // location name to geocode
+         
+         var pointOfView = { heading:120, pitch:0, zoom:1}; 
+ 
+         var geocoder = new google.maps.Geocoder();
+         
+         geocoder.geocode( 
+         
+            {'address': userLocation}, 
+         
+            function(results, status) {
+                
+                if (status == google.maps.GeocoderStatus.OK) {
+               
+                    //place a Panarama at location map1
+                    new google.maps.StreetViewPanorama(
+                             document.getElementById("map1"),
+                             { position: results[0].geometry.location, pov: pointOfView, visible:true }
+                         );
+                    
+                    // Prepare to draw street map
+                    var mapOptions = {
+                                      zoom: 8,
+                                      center: results[0].geometry.location,
+                                      mapTypeId: google.maps.MapTypeId.ROADMAP
+                    };
+
+                    // place a strret map at map2
+                    new google.maps.Map(document.getElementById("map2"),mapOptions);
+                                       
+                } 
+                else {
+                    alert("Geocode failed. Reason: " + status);
+                }
+            }
+         );
+     }
+ 
+     
+    </script>
+    </head>
+    <body>
+        
+        <!-- Ask user for a location - city,state -->
+        <!-- Call getMap passing the location to be geocoded and rendered as two maps. -->
+        <FORM name="myForm">Enter a location in the box: <BR>
+           <INPUT TYPE="text" NAME="inputbox" VALUE="" oninput="getMap(this.form)"><P>
+           <INPUT TYPE="button" NAME="button" Value="Get Street View" onClick="validateForm()">
+        </FORM>      
+       <div id="map1"></div>
+       
+       <div id="map2"></div>
+    </body>
+</html>

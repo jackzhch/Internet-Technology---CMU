@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:thr="http://purl.org/syndication/thread/1.0"
+  xml:lang="en-US"
+  xml:base="http://www.w3.org/blog/news/wp-atom.php"
+   >
+	<title type="text">W3C News</title>
+	<subtitle type="text">Leading the Web to its Full Potential</subtitle>
+
+	<updated>2014-02-11T17:20:01Z</updated>
+
+	<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news" />
+	<id>http://www.w3.org/blog/news/feed/atom</id>
+	<link rel="self" type="application/atom+xml" href="http://www.w3.org/blog/news/feed/atom" />
+
+	<generator uri="http://wordpress.org/" version="3.8.1">WordPress</generator>
+	<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Progress Events is a W3C Recommendation]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3660" />
+		<id>http://www.w3.org/blog/news/?p=3660</id>
+		<updated>2014-02-11T17:19:52Z</updated>
+		<published>2014-02-11T17:19:52Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Top Story" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Web Applications Working Group has published a W3C Recommendation of Progress Events. The Progress Events specification defines an event interface that can be used for measuring progress; e.g. HTTP entity body transfers. This specification is primarily meant to be used by other specifications. Learn more about the Rich Web Client Activity.]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3660"><![CDATA[<p>The <a href="http://www.w3.org/2008/webapps/">Web Applications Working Group</a> has published a W3C Recommendation of <a href="http://www.w3.org/TR/2014/REC-progress-events-20140211/">Progress Events</a>. The Progress Events specification defines an event interface that can be used for measuring progress; e.g. HTTP entity body transfers. This specification is primarily meant to be used by other specifications. Learn more about the <a href="http://www.w3.org/2006/rwc/">Rich Web Client Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3660#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3660/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Efficient XML Interchange (EXI) Format 1.0 (Second Edition) is a W3C Recommendation]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3658" />
+		<id>http://www.w3.org/blog/news/?p=3658</id>
+		<updated>2014-02-11T17:07:08Z</updated>
+		<published>2014-02-11T17:07:08Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="XML Core Technologies" />		<summary type="html"><![CDATA[The Efficient XML Interchange Working Group has published a W3C Recommendation of Efficient XML Interchange (EXI) Format 1.0 (Second Edition). This document is the specification of the Efficient XML Interchange (EXI) format. EXI is a very compact representation for the Extensible Markup Language (XML) Information Set that is intended to simultaneously optimize performance and the [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3658"><![CDATA[<p>The <a href="http://www.w3.org/XML/EXI/">Efficient XML Interchange Working Group</a> has published a W3C Recommendation of <a href="http://www.w3.org/TR/2014/REC-exi-20140211/">Efficient XML Interchange (EXI) Format 1.0 (Second Edition)</a>. This document is the specification of the Efficient XML Interchange (EXI) format. EXI is a very compact representation for the Extensible Markup Language (XML) Information Set that is intended to simultaneously optimize performance and the utilization of computational resources. The EXI format uses a hybrid approach drawn from the information and formal language theories, plus practical techniques verified by measurements, for entropy encoding XML information. Using a relatively simple algorithm, which is amenable to fast and compact implementation, and a small set of datatype representations, it reliably produces efficient encodings of XML event streams. The grammar production system and format definition of EXI are presented. Learn more about the <a href="http://www.w3.org/XML/">Extensible Markup Language (XML) Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3658#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3658/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Call for Review: MathML 3.0 (2nd Edition), XML Entity Definitions for Characters (2nd Edition) Proposed Edited Recommendations]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3655" />
+		<id>http://www.w3.org/blog/news/?p=3655</id>
+		<updated>2014-02-11T16:54:21Z</updated>
+		<published>2014-02-11T16:54:21Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Browsers and Authoring Tools" /><category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="XML Core Technologies" />		<summary type="html"><![CDATA[The Math Working Group has published two Proposed Edited Recommendations today: Mathematical Markup Language (MathML) Version 3.0 2nd Edition. This specification defines the Mathematical Markup Language, or MathML. MathML is a markup language for describing mathematical notation and capturing both its structure and content. The goal of MathML is to enable mathematics to be served, [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3655"><![CDATA[<p>The <a href="http://www.w3.org/Math/">Math Working Group</a> has published two Proposed Edited Recommendations today:</p>
+<ul class="show_items">
+<li><a href="http://www.w3.org/TR/2014/PER-MathML3-20140211/">Mathematical Markup Language (MathML) Version 3.0 2nd Edition</a>. This specification defines the Mathematical Markup Language, or MathML. MathML is a markup language for describing mathematical notation and capturing both its structure and content. The goal of MathML is to enable mathematics to be served, received, and processed on the World Wide Web, just as HTML has enabled this functionality for text. Comments are welcome through <strong>11 March</strong>.</li>
+<li><a href="http://www.w3.org/TR/2014/PER-xml-entity-names-20140211/">XML Entity Definitions for Characters (2nd Edition)</a>. This document defines several sets of names, so that to each name is assigned a Unicode character or sequence of characters. Each of these sets is expressed as a file of XML entity declarations. Comments are welcome through <strong>11 March</strong>.</li>
+</ul>
+<p>Learn more about the <a href="http://www.w3.org/Math/Activity">Math Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3655#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3655/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Last Call: CSS Shapes Module Level 1]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3651" />
+		<id>http://www.w3.org/blog/news/?p=3651</id>
+		<updated>2014-02-11T16:43:25Z</updated>
+		<published>2014-02-11T16:43:25Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Cascading Style Sheets (CSS) Working Group has published a Last Call Working Draft of CSS Shapes Module Level 1. CSS Shapes describe geometric shapes for use in CSS. For Level 1, CSS Shapes can be applied to floats. A circle shape on a float will cause inline content to wrap around the circle shape [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3651"><![CDATA[<p>The <a href="http://www.w3.org/Style/CSS/members">Cascading Style Sheets (CSS) Working Group</a> has published a Last Call Working Draft of <a href="http://www.w3.org/TR/2014/WD-css-shapes-1-20140211/">CSS Shapes Module Level 1</a>. CSS Shapes describe geometric shapes for use in CSS. For Level 1, CSS Shapes can be applied to floats. A circle shape on a float will cause inline content to wrap around the circle shape instead of the float’s bounding box. CSS is a language for describing the rendering of structured documents (such as HTML and XML) on screen, on paper, in speech, etc. Comments are welcome through <strong>04 March</strong>. Learn more about the <a href="http://www.w3.org/Style/">Style Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3651#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3651/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Last Call: Vibration API]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3653" />
+		<id>http://www.w3.org/blog/news/?p=3653</id>
+		<updated>2014-02-11T16:17:49Z</updated>
+		<published>2014-02-11T16:17:49Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Devices" />		<summary type="html"><![CDATA[The Device APIs Working Group has published a Last Call Working Draft of Vibration API. This specification defines an API that provides access to the vibration mechanism of the hosting device. Vibration is a form of tactile feedback. Comments are welcome through 04 March. Learn more about the Ubiquitous Web Applications Activity.]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3653"><![CDATA[<p>The <a href="http://www.w3.org/2009/dap/">Device APIs Working Group</a> has published a Last Call Working Draft of <a href="http://www.w3.org/TR/2014/WD-vibration-20140211/">Vibration API</a>. This specification defines an API that provides access to the vibration mechanism of the hosting device. Vibration is a form of tactile feedback. Comments are welcome through <strong>04 March</strong>. Learn more about the <a href="http://www.w3.org/2007/uwa/">Ubiquitous Web Applications Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3653#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3653/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Scalable Vector Graphics (SVG) 2 Draft Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3648" />
+		<id>http://www.w3.org/blog/news/?p=3648</id>
+		<updated>2014-02-11T16:05:29Z</updated>
+		<published>2014-02-11T16:05:29Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The SVG Working Group has published a Working Draft of Scalable Vector Graphics (SVG) 2. This specification defines the features and syntax for Scalable Vector Graphics (SVG) Version 2, a language for describing two-dimensional vector and mixed vector/raster graphics. Although an XML serialization is given, processing is defined in terms of a DOM. Learn more [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3648"><![CDATA[<p>The <a href="http://www.w3.org/Graphics/SVG/WG/">SVG Working Group</a> has published a Working Draft of <a href="http://www.w3.org/TR/2014/WD-SVG2-20140211/">Scalable Vector Graphics (SVG) 2</a>. This specification defines the features and syntax for Scalable Vector Graphics (SVG) Version 2, a language for describing two-dimensional vector and mixed vector/raster graphics. Although an XML serialization is given, processing is defined in terms of a DOM. Learn more about the <a href="http://www.w3.org/Graphics/">Graphics Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3648#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3648/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Content Security Policy 1.1 Draft Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3646" />
+		<id>http://www.w3.org/blog/news/?p=3646</id>
+		<updated>2014-02-11T15:54:32Z</updated>
+		<published>2014-02-11T15:54:32Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[The Web Application Security Working Group has published a Working Draft of Content Security Policy 1.1. This document defines a policy language used to declare a set of content restrictions for a web resource, and a mechanism for transmitting the policy from a server to a client where the policy is enforced. Learn more about [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3646"><![CDATA[<p>The <a href="http://www.w3.org/2011/webappsec/">Web Application Security Working Group</a> has published a Working Draft of <a href="http://www.w3.org/TR/2014/WD-CSP11-20140211/">Content Security Policy 1.1</a>. This document defines a policy language used to declare a set of content restrictions for a web resource, and a mechanism for transmitting the policy from a server to a client where the policy is enforced. Learn more about the <a href="http://www.w3.org/Security/">Security Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3646#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3646/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Navigation Error Logging First Public Working Draft Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3649" />
+		<id>http://www.w3.org/blog/news/?p=3649</id>
+		<updated>2014-02-11T15:40:17Z</updated>
+		<published>2014-02-11T15:40:17Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Home Page Stories" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Devices" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[The Web Performance Working Group has published a First Public Working Draft of Navigation Error Logging. This specification defines an interface to store and retrieve error data related to the previous navigations of a document. Learn more about the Rich Web Client Activity.]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3649"><![CDATA[<p>The <a href="http://www.w3.org/2010/webperf/">Web Performance Working Group</a> has published a First Public Working Draft of <a href="http://www.w3.org/TR/2014/WD-navigation-error-logging-20140211/">Navigation Error Logging</a>. This specification defines an interface to store and retrieve error data related to the previous navigations of a document. Learn more about the <a href="http://www.w3.org/2006/rwc/">Rich Web Client Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3649#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3649/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Call for Review: Accessible Rich Internet Applications (WAI-ARIA) 1.0 advances to Proposed Recommendation]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3638" />
+		<id>http://www.w3.org/blog/news/?p=3638</id>
+		<updated>2014-02-11T16:55:34Z</updated>
+		<published>2014-02-06T15:36:57Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Browsers and Authoring Tools" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[The Protocols and Formats Working Group (PFWG) today published Accessible Rich Internet Applications (WAI-ARIA) 1.0 and the WAI-ARIA 1.0 User Agent Implementation Guide as Proposed Recommendations. WAI-ARIA is a technical specification for making dynamic, interactive Web content accessible to people with disabilities. WAI-ARIA and supporting documents are described in the WAI-ARIA Overview. Comments are welcome [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3638"><![CDATA[<p>The <a href="http://www.w3.org/WAI/PF/">Protocols and Formats Working Group (PFWG)</a> today published <a href="http://www.w3.org/TR/2014/PR-wai-aria-20140206/">Accessible Rich Internet Applications (WAI-ARIA) 1.0</a> and the <a href="http://www.w3.org/TR/2014/PR-wai-aria-implementation-20140206/">WAI-ARIA 1.0 User Agent Implementation Guide</a> as Proposed Recommendations. WAI-ARIA is a technical specification for making dynamic, interactive Web content accessible to people with disabilities. WAI-ARIA and supporting documents are described in the <a href="http://www.w3.org/WAI/intro/aria">WAI-ARIA Overview</a>. Comments are welcome by <strong>7 March 2014</strong>. More information is provided in the <a href="http://lists.w3.org/Archives/Public/w3c-wai-ig/2014JanMar/0025.html">WAI-ARIA 1.0 is Proposed Recommendation e-mail</a>. Read about the <a href="http://www.w3.org/WAI/">Web Accessibility Initiative (WAI)</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3638#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3638/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[XML processor profiles Note Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3636" />
+		<id>http://www.w3.org/blog/news/?p=3636</id>
+		<updated>2014-02-11T16:48:37Z</updated>
+		<published>2014-02-06T15:25:38Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="XML Core Technologies" />		<summary type="html"><![CDATA[The XML Processing Model Working Group has published a Working Group Note of XML processor profiles. This specification defines several XML processor profiles, each of which defines how any given XML document should be processed, both operationally and in terms of what information must be made available to applications. It is intended as a resource [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3636"><![CDATA[<p>The <a href="http://www.w3.org/XML/Processing/">XML Processing Model Working Group</a> has published a Working Group Note of <a href="http://www.w3.org/TR/2014/NOTE-xml-proc-profiles-20140206/">XML processor profiles</a>. This specification defines several XML processor profiles, each of which defines how any given XML document should be processed, both operationally and in terms of what information must be made available to applications. It is intended as a resource for other specifications, which can by a single normative reference establish precisely what input processing they require as well as what information they require. Learn more about the <a href="http://www.w3.org/XML/">Extensible Markup Language (XML) Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3636#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3636/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Upcoming Workshop on Web Annotations: Footnotes, comments, bookmarks, and marginalia on the Web]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3631" />
+		<id>http://www.w3.org/blog/news/?p=3631</id>
+		<updated>2014-02-11T17:20:01Z</updated>
+		<published>2014-02-05T21:33:56Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Browsers and Authoring Tools" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Devices" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[W3C announced today a workshop on digital annotations for the Web, part of our ongoing effort on enhancing the Web experience. Annotating is the act of creating associations between distinct pieces of information. Annotation is a ubiquitous activity online in many guises: comments on articles, footnotes, sticky notes, “hot spots” on images, timestamped notes on [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3631"><![CDATA[<p>W3C announced today a <a href="http://www.w3.org/2014/04/annotation/index.html">workshop on digital annotations for the Web</a>, part of our ongoing effort on enhancing the Web experience.</p>
+<p>Annotating is the act of creating associations between distinct pieces of information. Annotation is a ubiquitous activity online in many guises: comments on articles, footnotes, sticky notes, “hot spots” on images, timestamped notes on video or audio tracks, highlighted text passages in ebook readers, evocative pictures attached to song lyrics, quotes and links on social media, and even tagged bookmarks, are all forms of annotation. One of the most common and engaging Web activities for the average person is discussion of a document or piece of media.</p>
+<p>Many projects and companies are now turning to annotations to solve a variety of issues with communication on the Web, and is of particular interest to the education, research, and digital publishing industries. To address these needs, W3C&#8217;s Web Annotations workshop will focus on identifying standardization priorities for chartering a potential Web Annotations Working Group, on such topics as:</p>
+<ul class="show_items">
+<li>Robust anchoring to dynamic third-party documents</li>
+<li>Styling selections and annotations</li>
+<li>Data models</li>
+<li>Federation and syndication</li>
+<li>Web storage and management of annotations</li>
+<li>Client side APIs and methods for the implementation of annotation systems</li>
+<li>Practical experience with annotation systems</li>
+<li>Annotation of data</li>
+</ul>
+<p>W3C membership is not required to participate. The event is open to all, but all participants are required to <a href="http://www.w3.org/2014/04/annotation/index.html#participate">submit a position paper or statement of interest</a> by <strong>28 February 2014</strong>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3631#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3631/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Five Documents Published by the HTML Working Group]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3627" />
+		<id>http://www.w3.org/blog/news/?p=3627</id>
+		<updated>2014-02-11T16:19:37Z</updated>
+		<published>2014-02-04T16:12:38Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The HTML Working Group has updated a Candidate Recommendation, published two Last Call Working Drafts, updated a Working Draft and a Working Group Note today: Updated Candidate Recommendation of HTML5. This specification defines the 5th major revision of the core language of the World Wide Web: the Hypertext Markup Language (HTML). In this version, new [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3627"><![CDATA[<p>The <a href="http://www.w3.org/html/wg/">HTML Working Group</a> has updated a Candidate Recommendation, published two Last Call Working Drafts, updated a Working Draft and a Working Group Note today:</p>
+<ul class="show_items">
+<li>Updated Candidate Recommendation of <a href="http://www.w3.org/TR/2014/CR-html5-20140204/">HTML5</a>. This specification defines the 5th major revision of the core language of the World Wide Web: the Hypertext Markup Language (HTML). In this version, new features are introduced to help Web application authors, new elements are introduced based on research into prevailing authoring practices, and special attention has been given to defining clear conformance criteria for user agents in an effort to improve interoperability.</li>
+<li>Last Call Working Draft of <a href="http://www.w3.org/TR/2014/WD-html-polyglot-20140204/">Polyglot Markup: A robust profile of the HTML5 vocabulary</a>. A document that uses polyglot markup is a document that is a stream of bytes that parses into identical document trees (with some exceptions, as noted in the Introduction) when processed either as HTML or when processed as XML. Polyglot markup that meets a well-defined set of constraints is interpreted as compatible, regardless of whether it is processed as HTML or as XHTML, per the HTML5 specification. Polyglot markup uses a specific DOCTYPE, namespace declarations, and a specific case—normally lower case but occasionally camel case—for element and attribute names. Polyglot markup uses lower case for certain attribute values. Further constraints include those on void elements, named entity references, and the use of scripts and style. Comments are welcome through <strong>25 February 2014</strong>.</li>
+<li>Last Call Working Draft of <a href="http://www.w3.org/TR/2014/WD-dom-20140204/">W3C DOM4</a>. DOM defines a platform-neutral model for events and document nodes. Comments are welcome through <strong>4 March 2014</strong>.</li>
+<li>Updated Working Draft of <a href="http://www.w3.org/TR/2014/WD-html51-20140204/">HTML 5.1</a>. This specification defines the 5th major version, first minor revision of the core language of the World Wide Web: the Hypertext Markup Language (HTML). In this version, new features continue to be introduced to help Web application authors, new elements continue to be introduced based on research into prevailing authoring practices, and special attention continues to be given to defining clear conformance criteria for user agents in an effort to improve interoperability.</li>
+<li>Working Group Note of <a href="http://www.w3.org/TR/2014/NOTE-html-ruby-extensions-20140204/">W3C HTML Ruby Markup Extensions</a>. The ruby markup model currently described in the HTML specification is limited in its support for a number of features, notably jukugo and double-sided ruby, as well as inline ruby. This specification addresses these issues by introducing new elements and changing the ruby processing model. Specific care has been taken to ensure that authoring remains as simple as possible. </li>
+</ul>
+<p>Learn more about the <a href="http://www.w3.org/MarkUp/Activity">HTML Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3627#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3627/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Last Call: CSS Backgrounds and Borders Module Level 3]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3629" />
+		<id>http://www.w3.org/blog/news/?p=3629</id>
+		<updated>2014-02-11T15:54:44Z</updated>
+		<published>2014-02-04T15:26:50Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Cascading Style Sheets (CSS) Working Group has published a Last Call Working Draft of CSS Backgrounds and Borders Module Level 3 for the purpose of updating the previous Candidate Recommendation. This module replaces two earlier drafts: CSS3 Backgrounds and CSS3 Border. CSS is a language for describing the rendering of structured documents (such as [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3629"><![CDATA[<p>The <a href="http://www.w3.org/Style/CSS/members">Cascading Style Sheets (CSS) Working Group</a> has published a Last Call Working Draft of <a href="http://www.w3.org/TR/2014/WD-css3-background-20140204/">CSS Backgrounds and Borders Module Level 3</a> for the purpose of updating the previous Candidate Recommendation. This module replaces two earlier drafts: CSS3 Backgrounds and CSS3 Border. CSS is a language for describing the rendering of structured documents (such as HTML and XML) on screen, on paper, in speech, etc. This draft contains the features of CSS level 3 relating to borders and backgrounds. It includes and extends the functionality of CSS level 2, which builds on CSS level 1. The main extensions compared to level 2 are borders consisting of images, boxes with multiple backgrounds, boxes with rounded corners and boxes with shadows. Comments are welcome through <strong>3 March 2014</strong>. Learn more about the <a href="http://www.w3.org/Style/">Style Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3629#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3629/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Standards for Web Applications on Mobile: current state and roadmap]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3623" />
+		<id>http://www.w3.org/blog/news/?p=3623</id>
+		<updated>2014-02-11T15:41:51Z</updated>
+		<published>2014-02-03T14:30:13Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Browsers and Authoring Tools" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Devices" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[W3C has published the January 2014 edition of Standards for Web Applications on Mobile, an overview of the various technologies developed in W3C that increase the capabilities of Web applications, and how they apply more specifically to the mobile context. A deliverable of the HTML5Apps project, this edition of the document includes changes and additions [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3623"><![CDATA[<p><a class="imageLink" href="http://www.w3.org/2013/02/mobile-web-app-state/"><img src="http://www.w3.org/2011/05/webapp-sm.png" alt="Thumbnail of application platform diagram that appears in the report" /></a>W3C has published the January 2014 edition of <a href="http://www.w3.org/2014/01/mobile-web-app-state/">Standards for Web Applications on Mobile</a>, an overview of the various technologies developed in W3C that increase the capabilities of Web applications, and how they apply more specifically to the mobile context.</p>
+<p>A deliverable of the <a href="http://html5apps-project.eu/">HTML5Apps</a> project, this edition of the document includes changes and additions since September 2013, including 6 documents reaching Recommendation status (a record), which shows increased maturity of the platform; 4 <abbr title="First Public Working Draft">FPWD</abbr> and 4 new editors drafts illustrate it is still growing up nicely; and a lot of the changes are linked to performance, off-line support and packaging.</p>
+<p>Learn more about the <a href="http://www.w3.org/Mobile/IG/">Web and Mobile Interest Group</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3623#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3623/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Call for Review: XQueryX 3.0 Proposed Recommendation Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3619" />
+		<id>http://www.w3.org/blog/news/?p=3619</id>
+		<updated>2014-02-06T15:12:26Z</updated>
+		<published>2014-01-30T15:02:29Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="XML Core Technologies" />		<summary type="html"><![CDATA[The XML Query Working Group has published a Proposed Recommendation of XQueryX 3.0. XQueryX is an XML representation of an XQuery. It was created by mapping the productions of the XQuery grammar into XML productions. The result is not particularly convenient for humans to read and write, but it is easy for programs to parse, [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3619"><![CDATA[<p>The <a href="http://www.w3.org/XML/Query/">XML Query Working Group</a> has published a Proposed Recommendation of <a href="http://www.w3.org/TR/2014/PR-xqueryx-30-20140130/">XQueryX 3.0</a>. XQueryX is an XML representation of an XQuery. It was created by mapping the productions of the XQuery grammar into XML productions. The result is not particularly convenient for humans to read and write, but it is easy for programs to parse, and because XQueryX is represented in XML, standard XML tools can be used to create, interpret, or modify queries. Comments are welcome through <strong>25 February 2014</strong>. Learn more about the <a href="http://www.w3.org/XML/">Extensible Markup Language (XML) Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3619#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3619/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Website Accessibility Conformance Evaluation Methodology (WCAG-EM): Final Review Draft]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3618" />
+		<id>http://www.w3.org/blog/news/?p=3618</id>
+		<updated>2014-02-06T15:12:18Z</updated>
+		<published>2014-01-30T14:48:19Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[A complete Working Draft of Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0 was published today by the Web Content Accessibility Guidelines Working Group (WCAG WG) and Evaluation and Repair Tools Working Group (ERT WG), through the joint WCAG 2.0 Evaluation Methodology Task Force (Eval TF). WCAG-EM describes an approach for evaluating how websites, including Web [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3618"><![CDATA[<p>A complete Working Draft of <a href="http://www.w3.org/TR/WCAG-EM/">Website Accessibility Conformance Evaluation Methodology (WCAG-EM) 1.0</a> was published today by the Web Content Accessibility Guidelines Working Group (<a href="http://www.w3.org/WAI/GL/">WCAG WG</a>) and Evaluation and Repair Tools Working Group (<a href="http://www.w3.org/WAI/ER/">ERT WG</a>), through the joint <abbr title="Web Content Accessibility Guidelines">WCAG</abbr> 2.0 Evaluation Methodology Task Force (<a href="http://www.w3.org/WAI/ER/2011/eval/eval-tf">Eval TF</a>). WCAG-EM describes an approach for evaluating how websites, including Web applications and websites for mobile devices, conform to <a href="http://www.w3.org/WAI/intro/wcag">WCAG 2.0</a>. Comments are welcome through <strong>28 February 2014</strong>. After the comments from this review period are addressed, WAI expects to publish this as an informative (that is, non-normative) W3C Working Group Note. Learn more from the <a href="http://www.w3.org/WAI/eval/conformance">WCAG-EM Overview</a> and about the <a href="http://www.w3.org/WAI/">Web Accessibility Initiative (WAI)</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3618#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3618/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[XMLHttpRequest Level 1 Draft Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3616" />
+		<id>http://www.w3.org/blog/news/?p=3616</id>
+		<updated>2014-02-06T15:12:10Z</updated>
+		<published>2014-01-30T14:36:47Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Web Applications Working Group has published a Working Draft of XMLHttpRequest Level 1. The XMLHttpRequest specification defines an API that provides scripted client functionality for transferring data between a client and a server. Learn more about the Rich Web Client Activity.]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3616"><![CDATA[<p>The <a href="http://www.w3.org/2008/webapps/">Web Applications Working Group</a> has published a Working Draft of <a href="http://www.w3.org/TR/2014/WD-XMLHttpRequest-20140130/">XMLHttpRequest Level 1</a>. The XMLHttpRequest specification defines an API that provides scripted client functionality for transferring data between a client and a server. Learn more about the <a href="http://www.w3.org/2006/rwc/">Rich Web Client Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3616#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3616/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Reminder: Position Papers for W3C Workshop on Web Payments due 8 February]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3613" />
+		<id>http://www.w3.org/blog/news/?p=3613</id>
+		<updated>2014-02-05T21:35:54Z</updated>
+		<published>2014-01-28T15:29:45Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[W3C invites the financial technology community to attend its Workshop Web Payments: How do you want to pay?, on March 24-25 in Paris, France. W3C Member and non-Member participants will include banks, credit card companies, governments, mobile network operators, payment solution providers, technology companies, retailers, and content creators. W3C&#8217;s Workshop goal is to leverage the [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3613"><![CDATA[<p>W3C invites the financial technology community to attend its <a href="http://www.w3.org/2013/10/payments/">Workshop Web Payments: How do you want to pay?</a>, on March 24-25 in Paris, France. W3C Member and non-Member participants will include banks, credit card companies, governments, mobile network operators, payment solution providers, technology companies, retailers, and content creators. W3C&#8217;s Workshop goal is to leverage the power of the Web to improve consumer payment choice and satisfaction, while easing the work of web developers to support all current and future payment solutions and empowering payment providers to easily reach across different solutions, devices and platforms. There is no Workshop fee, but interested parties should submit a presentation proposal or statement of interest to the Workshop Program Committee by 8 February. Read the <a href="https://www.w3.org/2014/01/payments.html.en">media advisory</a> and <a href="http://www.w3.org/2013/10/payments/participate.html">more information on participation</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3613#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3613/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Updated Drafts of Tracking Preference Expression (DNT), and Tracking Compliance and Scope]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3611" />
+		<id>http://www.w3.org/blog/news/?p=3611</id>
+		<updated>2014-02-04T15:27:06Z</updated>
+		<published>2014-01-28T15:11:30Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Browsers and Authoring Tools" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[The Tracking Protection Working Group has published two documents today. A Working Draft Tracking Preference Expression (DNT). This specification defines the DNT request header field as an HTTP mechanism for expressing the user&#8217;s preference regarding tracking, an HTML DOM property to make that expression readable by scripts, and APIs that allow scripts to register site-specific [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3611"><![CDATA[<p>The <a href="http://www.w3.org/2011/tracking-protection/">Tracking Protection Working Group</a> has published two documents today.</p>
+<ul class="show_items">
+<li>A Working Draft <a href="http://www.w3.org/TR/2014/WD-tracking-dnt-20140128/">Tracking Preference Expression (DNT)</a>. This specification defines the DNT request header field as an HTTP mechanism for expressing the user&#8217;s preference regarding tracking, an HTML DOM property to make that expression readable by scripts, and APIs that allow scripts to register site-specific exceptions granted by the user. It also defines mechanisms for sites to communicate whether and how they honor a received preference through use of the Tk response header field and well-known resources that provide a machine-readable tracking status.</li>
+<li>A Working Draft of <a href="http://www.w3.org/TR/2014/WD-tracking-compliance-20140128/">Tracking Compliance and Scope</a>. This specification defines the meaning of a Do Not Track (DNT) preference and sets out practices for websites to comply with this preference.</li>
+</ul>
+<p>Learn more about the <a href="http://www.w3.org/Privacy/">Privacy Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3611#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3611/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Encoding Draft Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3609" />
+		<id>http://www.w3.org/blog/news/?p=3609</id>
+		<updated>2014-02-04T15:26:57Z</updated>
+		<published>2014-01-28T14:55:56Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[The Internationalization Working Group has published a Working Draft of Encoding. While encodings have been defined to some extent, implementations have not always implemented them in the same way, have not always used the same labels, and often differ in dealing with undefined and former proprietary areas of encodings. This specification attempts to fill those [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3609"><![CDATA[<p>The <a href="http://www.w3.org/International/core/">Internationalization Working Group</a> has published a Working Draft of <a href="http://www.w3.org/TR/2014/WD-encoding-20140128/">Encoding</a>. While encodings have been defined to some extent, implementations have not always implemented them in the same way, have not always used the same labels, and often differ in dealing with undefined and former proprietary areas of encodings. This specification attempts to fill those gaps so that new implementations do not have to reverse engineer encoding implementations of the market leaders and existing implementations can converge. Learn more about the <a href="http://www.w3.org/International/">Internationalization Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3609#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3609/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[WOFF 2.0 Evaluation Report Draft Published]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3607" />
+		<id>http://www.w3.org/blog/news/?p=3607</id>
+		<updated>2014-01-30T14:32:09Z</updated>
+		<published>2014-01-28T14:38:49Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The WebFonts Working Group has published a Working Draft of WOFF 2.0 Evaluation Report. Web Open Font Format (WOFF) 2.0 is a proposed update to the existing WOFF 1.0 with improved compression. This report lists requirements for successful deployment, evaluates how the requirement may be met, and examines the compression gains and tradeoffs vs. code [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3607"><![CDATA[<p>The <a href="http://www.w3.org/Fonts/WG/">WebFonts Working Group</a> has published a Working Draft of <a href="http://www.w3.org/TR/2014/WD-WOFF20ER-20140128/">WOFF 2.0 Evaluation Report</a>. Web Open Font Format (WOFF) 2.0 is a proposed update to the existing WOFF 1.0 with improved compression. This report lists requirements for successful deployment, evaluates how the requirement may be met, and examines the compression gains and tradeoffs vs. code complexity, encode and decode time. This document is non-normative. Learn more about the <a href="http://www.w3.org/Fonts/">Fonts Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3607#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3607/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[CSS Grid Layout Module Level 1 Working Draft Updated]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3604" />
+		<id>http://www.w3.org/blog/news/?p=3604</id>
+		<updated>2014-01-30T14:31:42Z</updated>
+		<published>2014-01-23T14:56:47Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The CSS Working Group has published an updated Working Draft of CSS Grid Layout Module Level 1. This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a flexible or fixed predefined layout [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3604"><![CDATA[<p>The <a href="http://www.w3.org/Style/CSS/members">CSS Working Group</a> has published an updated Working Draft of <a href="http://www.w3.org/TR/2014/WD-css-grid-1-20140123/">CSS Grid Layout Module Level 1</a>. This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a flexible or fixed predefined layout grid. CSS is a language for describing the rendering of structured documents (such as HTML and XML) on screen, on paper, in speech, etc. Learn more about the <a href="http://www.w3.org/Style/">Style Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3604#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3604/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[CSS Fragmentation Module Level 3 Working Draft Updated]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3602" />
+		<id>http://www.w3.org/blog/news/?p=3602</id>
+		<updated>2014-01-30T14:31:35Z</updated>
+		<published>2014-01-21T15:05:12Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The CSS Working Group published an updated Working Draft of CSS Fragmentation Module Level 3. This module describes the fragmentation model that partitions a flow into pages, columns, or regions. It builds on the Page model module and introduces and defines the fragmentation model. It adds functionality for pagination, breaking variable fragment size and orientation, [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3602"><![CDATA[<p>The <a href="http://www.w3.org/Style/CSS/members">CSS Working Group</a> published an updated Working Draft of <a href="http://www.w3.org/TR/2014/WD-css3-break-20140116/">CSS Fragmentation Module Level 3</a>. This module describes the fragmentation model that partitions a flow into pages, columns, or regions. It builds on the Page model module and introduces and defines the fragmentation model. It adds functionality for pagination, breaking variable fragment size and orientation, widows and orphans. Learn more about the <a href="http://www.w3.org/Style/">Style Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3602#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3602/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[For Review: Updated Techniques for Web Content Accessibility Guidelines (WCAG)]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3600" />
+		<id>http://www.w3.org/blog/news/?p=3600</id>
+		<updated>2014-01-28T14:56:47Z</updated>
+		<published>2014-01-16T20:22:53Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Browsers and Authoring Tools" /><category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" /><category scheme="http://www.w3.org/blog/news" term="Web of Services" />		<summary type="html"><![CDATA[The Web Content Accessibility Guidelines Working Group (WCAG WG) requests review of draft updates to Notes that accompany WCAG 2.0: Techniques for WCAG 2.0 (Editors&#8217; Draft) and Understanding WCAG 2.0 (Editors&#8217; Draft). Comments are welcome through 14 February 2014. (This is not an update to WCAG 2.0, which is a stable document.) To learn more [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3600"><![CDATA[<p>The <a href="http://www.w3.org/WAI/GL/">Web Content Accessibility Guidelines Working Group (WCAG WG)</a> requests review of draft updates to Notes that accompany WCAG 2.0: <a href="http://www.w3.org/WAI/GL/2014/WD-WCAG20-TECHS-20140107/">Techniques for WCAG 2.0 (Editors&#8217; Draft)</a> and <a href="http://www.w3.org/WAI/GL/2014/WD-UNDERSTANDING-WCAG20-20140107/">Understanding WCAG 2.0 (Editors&#8217; Draft)</a>. Comments are welcome through 14 February 2014. (This is not an update to WCAG 2.0, which is a stable document.) To learn more about the updates, see the <a href="http://lists.w3.org/Archives/Public/w3c-wai-ig/2014JanMar/0015.html">Call for Review: WCAG 2.0 Techniques Draft Updates e-mail</a>. Read  about the <a href="http://www.w3.org/WAI/">Web Accessibility Initiative (WAI)</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3600#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3600/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+		<entry>
+		<author>
+			<name>Coralie Mercier</name>
+						<uri>http://coraliemercier.wordpress.com/</uri>
+					</author>
+		<title type="html"><![CDATA[Cross-Origin Resource Sharing (CORS) is a W3C Recommendation]]></title>
+		<link rel="alternate" type="text/html" href="http://www.w3.org/blog/news/archives/3593" />
+		<id>http://www.w3.org/blog/news/?p=3593</id>
+		<updated>2014-01-28T15:31:08Z</updated>
+		<published>2014-01-16T17:21:02Z</published>
+		<category scheme="http://www.w3.org/blog/news" term="Publication" /><category scheme="http://www.w3.org/blog/news" term="Web Design and Applications" />		<summary type="html"><![CDATA[The Web Applications (WebApps) Working Group and the Web Application Security (WebAppSec) Working Group have published today a Recommendation of Cross-Origin Resource Sharing (CORS). This document defines a mechanism to enable client-side cross-origin requests. Specifications that enable an API to make cross-origin requests to resources can use the algorithms defined by this specification. If such [&#8230;]]]></summary>
+		<content type="html" xml:base="http://www.w3.org/blog/news/archives/3593"><![CDATA[<p>The <a href="http://www.w3.org/2008/webapps/">Web Applications (WebApps) Working Group</a> and the <a href="http://www.w3.org/2011/webappsec/">Web Application Security (WebAppSec) Working Group</a> have published today a Recommendation of <a href="http://www.w3.org/TR/2014/REC-cors-20140116/">Cross-Origin Resource Sharing</a> (CORS). This document defines a mechanism to enable client-side cross-origin requests. Specifications that enable an API to make cross-origin requests to resources can use the algorithms defined by this specification. If such an API is used on http://example.org resources, a resource on http://hello-world.example can opt in using the mechanism described by this specification (e.g., specifying Access-Control-Allow-Origin: http://example.org as response header), which would allow that resource to be fetched cross-origin from http://example.org. Learn more about the <a href="https://www.w3.org/2006/rwc/">Rich Web Client Activity</a> and the <a href="https://www.w3.org/Security/">Security Activity</a>.</p>
+]]></content>
+			<link rel="replies" type="text/html" href="http://www.w3.org/blog/news/archives/3593#comments" thr:count="0"/>
+		<link rel="replies" type="application/atom+xml" href="http://www.w3.org/blog/news/archives/3593/feed/atom" thr:count="0"/>
+		<thr:total>0</thr:total>
+	</entry>
+	</feed>

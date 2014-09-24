@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>   <!-- urlList.xsd -->
+<schema 
+   xmlns="http://www.w3.org/2001/XMLSchema"
+   xmlns:co="http://www.andrew.cmu.edu/mm6"
+   targetNamespace="http://www.andrew.cmu.edu/mm6"
+   elementFormDefault="qualified"
+   >
+   <annotation>
+      <documentation>This is the urlList XSDL document. 
+      </documentation>
+   </annotation>
+   
+  <element name="URLList">
+  <complexType>
+    <sequence>
+      <element name="URL"  minOccurs="0" maxOccurs="10" type="string"/>
+    </sequence>
+  </complexType>
+</element>
+</schema>
